@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I presented my work at the First European Fluid Dynamics Conference (<a href="https://efdc1.de/">EFDC1</a>), titled Melting dynamics of floating ice cylinders, in Aachen (DE).
+With this edition, the European Turbulence Conference (ETC) and European Fluid Mechanics Conference (EFMC) were merged, giving rise to the First European Fluid Dynamics Conference (<a href="https://efdc1.de/">EFDC1</a>), held in Aachen (DE). There, I presented my work on the melting dynamics of floating ice cylinders.

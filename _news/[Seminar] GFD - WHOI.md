@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I presented my work at a seminar in the <a href="https://gfd.whoi.edu/">GFD Program</a> at the <a href="xhttps://www.whoi.edu/">Woods Hole Oceanographic Institution (WHOI)</a>, titled Melting of cylindrical laboratory icebergs, in Woods Hole, MA (US).
+I was invited by <a href="https://www2.whoi.edu/staff/ccenedese/"> Dr. Claudia Cenedese </a> to visit the <a href="xhttps://www.whoi.edu/">Woods Hole Oceanographic Institution (WHOI)</a> (in Woods Hole, MA (US)), where I gave a seminar to the attendees of the <a href="https://gfd.whoi.edu/">GFD Program</a> titled Melting of cylindrical laboratory icebergs.

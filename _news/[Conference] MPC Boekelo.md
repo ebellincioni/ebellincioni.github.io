@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I presented my work at the Max Plank Conference, titled Melting of floating ice cylinders in Boekelo (NL).
+The resort Bad Boekelo in Boekelo (NL) hosted a Max Plank Center meeting, where I presented my work on melting floating ice cylinders to an audience of fluid-dynamics researchers from Dutch and German institutes.
