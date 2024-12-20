@@ -1,7 +1,8 @@
 ---
 layout: post
+title: Presentation in EFDC1 (Aachen, DE)
 date: 2024-09-20
-inline: true
+inline: false
 related_posts: false
 ---
 

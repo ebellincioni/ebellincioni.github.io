@@ -1,7 +1,8 @@
 ---
 layout: post
+title: Presentation at MPC meeting in Boekelo (NL)
 date: 2024-04-01
-inline: true
+inline: false
 related_posts: false
 ---
 

@@ -1,7 +1,8 @@
 ---
 layout: post
+title: Presentation in APS-DFD (Washington DC)
 date: 2023-11-19
-inline: true
+inline: false
 related_posts: false
 ---
 

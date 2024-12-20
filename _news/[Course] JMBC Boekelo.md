@@ -1,7 +1,8 @@
 ---
 layout: post
+title: Participated in course on Multiphase Flows and Phase Transitions in Boekelo (NL)
 date: 2023-03-03
-inline: true
+inline: false
 related_posts: false
 ---
 

@@ -1,7 +1,8 @@
 ---
 layout: post
+title: Attended the PIV course by DLR Göttingen (DE)
 date: 2022-03-24
-inline: true
+inline: false
 related_posts: false
 ---
 

@@ -1,7 +1,8 @@
 ---
 layout: post
+title: Visit and Seminar at WHOI (Woods Hole, US)
 date: 2024-08-01
-inline: true
+inline: false
 related_posts: false
 ---
 

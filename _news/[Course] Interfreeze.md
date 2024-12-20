@@ -1,7 +1,8 @@
 ---
 layout: post
+title: Participation in Interfreeze school in Cargese, FR
 date: 2023-05-05
-inline: true
+inline: false
 related_posts: false
 ---
 

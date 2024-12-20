@@ -1,7 +1,8 @@
 ---
 layout: post
+title: Presentation at JCIOI online workshop on Ice-Ocean interactions
 date: 2024-10-15
-inline: true
+inline: false
 related_posts: false
 ---
 

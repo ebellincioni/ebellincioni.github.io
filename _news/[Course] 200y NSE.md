@@ -1,7 +1,8 @@
 ---
 layout: post
+title: Participation to summer school on Navier-Stokes equations in Les Houches, FR
 date: 2023-08-25
-inline: true
+inline: false
 related_posts: false
 ---
 

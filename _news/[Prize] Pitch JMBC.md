@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Burgers Symposium's Best Poster and Pitch Award 2024
+title: Awarded with Burgers Symposium's Best Poster and Pitch Award 2024
 date: 2024-05-29
 inline: false
 related_posts: false
