@@ -1,83 +1,82 @@
-# - title: General Information
-#   type: map
-#   contents:
-#     - name: Full Name
-#       value: Albert Einstein
-#     - name: Date of Birth
-#       value: 14th March 1879
-#     - name: Languages
-#       value: English, German
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Edoardo Bellincioni
+    - name: Work e-mail
+      value: <a href="mailto:e.bellincioni@utwente.nl">e.bellincioni@utwente.nl</a>
+    - name: Work phone
+      value: +31 53 489 3200
+    - name: Work address
+      value: Horst Complex, De Horst 2 <br/> room ME246B <br/> 7522 LW, Enschede (NL)
+    - name: Website
+      value: <a href="https://ebellincioni.github.io/">e.bellincioni.github.io</a>
 
-# - title: Education
-#   type: time_table
-#   contents:
-#     - title: PhD
-#       institution: University of Zurich, Zurich, Switzerland
-#       year: 1905
-#       description:
-#         - Description 1.
-#         - Description 2.
-#         - title: Description 3.
-#           contents:
-#             - Sub-description 1.
-#             - Sub-description 2.
-#     - title: Federal teaching diploma
-#       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-#       year: 1900
-#       description:
-#         - Description 1.
-#         - Description 2.
 
-# - title: Experience
-#   type: time_table
-#   contents:
-#     - title: Professor of Theoretical Physics
-#       institution: Institute for Advanced Study, Princeton University
-#       year: 1933 - 1955
-#       description:
-#         - Description 1.
-#         - Description 2.
-#         - title: Description 3.
-#           contents:
-#             - Sub-description 1.
-#             - Sub-description 2.
-#     - title: Visiting Professor
-#       institution: California Institute of Technology, Pasadena, California, US
-#       year: 1933
-#       description:
-#         - Description 1.
-#         - Description 2.
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD, ongoing
+      institution: <a href="https://pof.tnw.utwente.nl/">Physics of Fluids Department, University of Twente</a>, </br> Enschede (NL)
+      year: 2022-2026
+      description:
+        - 'Advisors: Adj. Prof. <a href="https://www.shuisman.com/">Sander G. Huisman</a> and Prof. <a href="https://pof.tnw.utwente.nl/people/profile/3">Detlef Lohse</a>'
+        - 'Subject: Lagrangian Melting and Dissolution'
+    - title: MSc Climate Physics
+      institution: <a href="https://www.uu.nl/en/research/institute-for-marine-and-atmospheric-research-imau">Institute for Marine and Atmospheric Research, Utrecht University</a>, </br> Utrecht (NL)
+      year: 2020-2022
+      description:
+        - 'Supervisors: Assoc. Prof. <a href="https://www.uu.nl/staff/ASvonderHeydt">Anna von der Heydt</a> and <a href="https://www.uu.nl/staff/RMvanWesten">Dr. René van Westen</a>'
+        - 'Thesis : <a href="https://studenttheses.uu.nl/handle/20.500.12932/42737">Sensitivity of the Amazon Rainforest to Climate Change</a>'
+    - title: BSc Physics
+      institution: <a href="https://fisica.unimi.it/it">Dipartimento di Fisica, Università degli Studi di Milano</a>, Milano (IT)
+      year: 2017-2020
+      description:
+        - 'Supervisors: Assoc. Prof. <a href="http://divece.net/">Marcel di Vece</a>'
+        - 'Thesis : <a href="https://pubs.acs.org/doi/full/10.1021/acs.jpcc.1c07019">Inserting Hydrogen into Germanium Quantum Dots</a>'
 
-#     - title: Director
-#       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-#       year: 1917-1933
+- title: Teaching Experience 
+  type: time_table
+  contents:
+    - title: as Doctoral Candidate (PhD)
+      institution: University of Twente
+      year: 2022 - now
+      description:
+        - title: 'Assisted:'
+          contents:
+            - (<i>twice</i>) Advanced Fluid Mechanics (MSc Applied Physics)
+    - title: as Master student 
+      institution: Utrecht University
+      year: 2020-2022
+      description:
+        - title: 'Assisted:'
+          contents:
+            - "Data Acquisition and Applied Analysis – Laboratory (1st year BSc Physics)"
+            - Subatomic Physics (3rd year BSc Physics)
+            - Statistical Physics (2nd year BSc Physics)
+            - Turbulence in Fluids (3rd year BSc Physics)
 
-#     - title: Professor of Theoretical Physics
-#       institution: Karl-Ferdinand University, Prague, Czechoslovakia
-#       year: 1911 - 1917
-#       description:
+- title: Supervision of Students
+  type: time_table
+  contents:
+    - title: Yiyu Zhou 
+      year: 2024
+      description: 
+        - "from: University of Science and Technology of China"
+        - "Thesis title: <i>Melting of ice balls with rotational degrees of freedom in isotropic turbulence</i>, Internship"
+    - title: Hannah Brugge  
+      year: 2023
+      description: 
+        - "from: University of Twente"
+        - "Thesis title: <i>The shape evolution of melting freely-floating ice cylinders</i>, Master thesis"
 
-#     - title: Associate Professor of Theoretical Physics
-#       institution: University of Zurich, Zurich, Switzerland
-#       year: 1909 - 1911
 
-# - title: Open Source Projects
-#   type: time_table
-#   contents:
-#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-#       year: 2015-now
-#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-# - title: Honors and Awards
-#   type: time_table
-#   contents:
-#     - year: 1921
-#       items:
-#         - Nobel Prize in Physics
-#         - Matteucci Medal
-#     - year: 2029
-#       items:
-#         - Max Planck Medal
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2024
+      items:
+        - Best Poster and Pitch, JMBC Burgers Symposium
 
 # - title: Academic Interests
 #   type: nested_list
@@ -91,7 +90,19 @@
 #         - Description 1.
 #         - Description 2.
 
-# - title: Other Interests
-#   type: list
-#   contents:
-#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+- title: Languages
+  type: nested_list
+  contents:
+    - title: Italian
+      items:
+        - Native speaker
+    - title: English
+      items:
+        - Proficient
+    - title: Spanish
+      items:
+        - Good (DELE B2)
+    - title: Russian
+      items:
+        - Good (B1+, ongoing)
+  
