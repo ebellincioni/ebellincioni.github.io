@@ -11,7 +11,7 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: left
-    image: "[people]Niels.png"
+    image: "[people]Niels.jpg"
     content: students_Niels.md
     image_circular: false # crops the image to make it circular
     more_info:  >
@@ -19,7 +19,7 @@ profiles:
       <p>UTwente Applied Physics</p>
       <p>Bachelor thesis</p>
   - align: right
-    image: "[people]Simon.png"
+    image: "[people]Simon.jpg"
     content: students_Simon.md
     image_circular: false # crops the image to make it circular
     more_info: >
