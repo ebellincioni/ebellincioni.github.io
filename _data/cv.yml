@@ -59,6 +59,16 @@
 - title: Supervision of Students
   type: time_table
   contents:
+    - title: Simon Biermann
+      year: 2025
+      description: 
+        - "from: University of Twente"
+        - "Thesis title: <i>Experimental research into the sliding motion of melting objects on a heated surface</i>, Bachelor thesis"
+    - title: Niels Wilgenhof
+      year: 2025
+      description: 
+        - "from: University of Twente"
+        - "Thesis title: <i>Melting Ice Balls with Imposed Surface Morphology in Turbulence</i>, Bachelor thesis"
     - title: Yiyu Zhou 
       year: 2024
       description: 
@@ -71,9 +81,12 @@
         - "Thesis title: <i>The shape evolution of melting freely-floating ice cylinders</i>, Master thesis"
 
 
-- title: Honors and Awards
+- title: Awards, Fellowships and others
   type: time_table
   contents:
+    - year: 2025
+      items:
+        - Fellow at GFD Program of the Woods Hole Oceanographic Institution
     - year: 2024
       items:
         - Best Poster and Pitch, JMBC Burgers Symposium
