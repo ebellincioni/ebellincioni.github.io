@@ -1,0 +1,1 @@
+Hannah did her Master thesis project with me and <a href="https://www.shuisman.com/">Sander Husiman</a>, doing experiments on floating ice cylinders. She measured the melt rate of floating ice cylinders, of different initial sizes and with different ambient water salinities. She tracked the evolution of the cross section of the cylinders in time. 
