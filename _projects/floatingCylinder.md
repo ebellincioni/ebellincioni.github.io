@@ -8,7 +8,7 @@ img: /assets/img/[project]cylinder.png
 # categories: sample-posts
 ---
 
-These two videos show the morphological changes that occur on ice cylinders that are left to melt floaing in a water tank. The left video is of an experiment where the water is fresh, the right one is one where the water is saline (about a third of the average ocean salinity). The videos are sped up, the melting takes about half an hour in real time. 
+These two videos show the morphological changes that occur on ice cylinders that are left to melt floating in a water tank. The left video is of an experiment where the water is fresh, the right one is one where the water is saline (about a third of the average ocean salinity). The videos are sped up, the melting takes about half an hour in real time. 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
