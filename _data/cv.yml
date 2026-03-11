@@ -97,12 +97,17 @@
 - title: Invited seminars
   type: time_table
   contents:
+    - year: 2 / 2026
+      items:
+        - DAMTP, University of Cambridge, UK
+        - IEEF, University of Cambridge, UK
     - year: 1 / 2026
       items:
         - Dipartimento di Fisica, Università degli Studi di Torino, Italy
         - INPHYNI, Nice, France
         - IRPHE, Marseille, France
         - LEGI, Grenoble, France
+        - ENS, Lyon, France
     - year: 9 / 2025
       items:
         - Institute of Fluid Mechanics and Heat Transfer, TU Wien, Austria
