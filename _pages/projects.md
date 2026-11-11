@@ -2,8 +2,8 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A visual gallery of the projects I am currently working on. 
-nav: false
+description: A visual gallery of some of my projects.
+nav: true
 nav_order: 3
 # display_categories: [work, fun]
 horizontal: false

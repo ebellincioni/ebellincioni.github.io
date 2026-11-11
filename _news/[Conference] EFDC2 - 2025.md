@@ -6,4 +6,4 @@ inline: false
 related_posts: false
 ---
 
-Dublin hosted the second European Fluid Dynamics Conference (<a href="https://www.efdc2.com/">EFDC2</a>). There, I presented my work on the lubrication flow coming from a melting block sliding down an inclined ramp.
+Dublin hosted the second European Fluid Dynamics Conference (EFDC2). There, I presented my work on the lubrication flow coming from a melting block sliding down an inclined ramp.
